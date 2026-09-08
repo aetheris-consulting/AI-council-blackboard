@@ -1,0 +1,6 @@
+{
+  "name": "Council Blackboard System",
+  "description": "FastMCP/Horizon MCP server with a companion React C2 interface for AI-first shared-state deliberation and HITL governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MCP_SERVER", "HITL_BLACKBOARD", "AI_COUNCIL", "COMPANION_WEB_UI"]
+}
